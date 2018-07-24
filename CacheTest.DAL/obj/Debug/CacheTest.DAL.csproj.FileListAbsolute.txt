@@ -1,0 +1,17 @@
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\CacheTest.DAL.dll.config
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\CacheTest.DAL.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\CacheTest.DAL.pdb
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\CacheTest.Model.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\CacheTest.Model.pdb
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\CacheTest.Model.dll.config
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\obj\Debug\CacheTest.DAL.csprojAssemblyReference.cache
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\obj\Debug\CacheTest.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\obj\Debug\CacheTest.DAL.csproj.CopyComplete
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\obj\Debug\CacheTest.DAL.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.DAL\obj\Debug\CacheTest.DAL.pdb

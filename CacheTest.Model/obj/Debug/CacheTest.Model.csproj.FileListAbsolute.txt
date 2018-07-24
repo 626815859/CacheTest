@@ -1,0 +1,13 @@
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\CacheTest.Model.dll.config
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\CacheTest.Model.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\CacheTest.Model.pdb
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\EntityFramework.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\EntityFramework.xml
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\obj\Debug\CacheTest.Model.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\obj\Debug\CacheTest.Model.csproj.CopyComplete
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\obj\Debug\CacheTest.Model.dll
+C:\Users\Joseph\Source\Repos\CacheTest\CacheTest.Model\obj\Debug\CacheTest.Model.pdb
